@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://www.cathaybk.com.tw",
+  "lastCrawled": "https://www.cathaybk.com.tw/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.cathaybk.com.tw/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.cathaybk.com.tw/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. fetch failed"
+    }
+  ]
+}
