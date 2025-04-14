@@ -1,0 +1,25 @@
+{
+  "originUrl": "https://www.cathaybk.com.tw",
+  "lastCrawled": "https://www.cathaybk.com.tw",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.cathaybk.com.tw",
+      "status": "301 Moved Permanently Redirect: https://www.cathaybk.com.tw/cathaybk/"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/",
+      "status": "302 Found Redirect: https://www.cathay-cube.com.tw/cathaybk"
+    }
+  ]
+}
